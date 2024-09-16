@@ -32,4 +32,4 @@ public class Unique
         System.out.print("is the word " + testString + " unique?: " + isUnique(testString));
     }
 
-}
+}         
