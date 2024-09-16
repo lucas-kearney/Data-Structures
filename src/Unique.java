@@ -28,7 +28,7 @@ public class Unique
 
     public static void main(String[] args)
     {
-        String testString = "grape";
+        String testString = "orange";
         System.out.print("is the word " + testString + " unique?: " + isUnique(testString));
     }
 
